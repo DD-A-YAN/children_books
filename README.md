@@ -22,4 +22,4 @@
 2、根据已获取的图书链接进一步抓取图书商品详情和商品评论等信息
 
 
-#如有问题，请联系：duhaiyan123@foxmail.com
+如有问题，请联系：duhaiyan123@foxmail.com
